@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|c:\\users\\mehme\\source\\repos\\tradingusermicroservice\\tradingusermicroservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\tradingusermicroservice\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\tradingusermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\tradingusermicroservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\tradingusermicroservice\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\tradingusermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4195E165-C812-49AB-9787-6EEED021C6BD}|TradingUserMicroService\\TradingUserMicroService.csproj|solutionrelative:tradingusermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\appsettings.json",
+              "RelativeToolTip": "TradingUserMicroService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T11:48:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\DataContext.cs",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\DataContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\DataContext.cs",
+              "RelativeToolTip": "TradingUserMicroService\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:47:17.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TradingUserMicroService\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswC0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:24:27.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Program.cs",
+              "RelativeToolTip": "TradingUserMicroService\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:33:38.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\StockController.cs",
+              "RelativeToolTip": "TradingUserMicroService\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "TradingUserMicroService\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingUserMicroService\\TradingUserMicroService\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "TradingUserMicroService\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:20:47.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

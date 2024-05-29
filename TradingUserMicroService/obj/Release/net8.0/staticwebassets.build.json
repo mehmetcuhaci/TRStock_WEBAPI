@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KBfEwlLjZM1SH5s7dUJpvdnSPRRGbl4YkFgkH3BmXwg=",
+  "Source": "TradingUserMicroService",
+  "BasePath": "_content/TradingUserMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
