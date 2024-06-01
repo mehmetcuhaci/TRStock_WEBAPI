@@ -1,6 +1,6 @@
 # TURKEY STOCK API
 
- ### Here is the full turkish stocks api you can it for school projets or something else. Not in real time at the moment. I'm working on it. It has a user registration with basic stuff, do not mind it.
+ ### Here is the full turkish stocks api you can it for school projets or something else. It has one hour delay at moment. It has a user registration with basic stuff, do not mind it.
 
  ** DO NOT USE IT TO MAKE MONEY *
 
